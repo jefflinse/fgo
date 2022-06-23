@@ -1,3 +1,3 @@
-module github.com/jefflinse/funcy
+module github.com/jefflinse/fgo
 
 go 1.18
